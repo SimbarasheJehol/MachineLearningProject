@@ -1,2 +1,2 @@
 # MachineLearningProject
-3rd Wits University machine learning project
+3rd year Wits University machine learning project
